@@ -1,3 +1,4 @@
+changed
 package Lab2;
 
 public class author {
@@ -36,4 +37,4 @@ public class author {
 		this.Country = Country;
 	}
 
-}
+} 

@@ -42,4 +42,4 @@ public class BookDelete extends ActionSupport {
 	public void setBkID(String bkID) {
 		this.bkID = bkID;
 	}
-}
+} 
